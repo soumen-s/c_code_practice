@@ -1,2 +1,3 @@
 # c_code_practice
-c language programming
+C programming language. 
+Different programming exercise. 
