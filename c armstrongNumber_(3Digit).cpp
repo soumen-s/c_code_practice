@@ -1,3 +1,4 @@
+// Program to print whether the number is Armstrong or not
 // amstrong number - in case of three digit numbers
 
 #include <stdio.h>
