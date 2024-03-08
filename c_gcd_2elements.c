@@ -19,7 +19,7 @@ int gcd(int a, int b)
   
 int main() 
 { 
-    int a,b; 
+    int a, b; 
     
     printf("Enter the first number: ");
     scanf("%d", &a);
